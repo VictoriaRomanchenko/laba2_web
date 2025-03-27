@@ -1,0 +1,1 @@
+Романченко Вікторія Олександрівна, КВ-22 група, ЛР1 "Розробка статичного інтерфейсу Web-додатка", URL на документ звіту на Google Drive: https://docs.google.com/document/d/1e3hvJVKXM_nzbqOABIAyz0GDjiL2LYnI/edit?usp=sharing&ouid=114601536714704427028&rtpof=true&sd=true
