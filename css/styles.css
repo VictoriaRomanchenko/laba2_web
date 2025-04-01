@@ -70,3 +70,40 @@ footer {
 .table {
     margin-bottom: 20px;
 }
+
+.contact-form {
+    max-width: 400px;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form input {
+    height: 40px;
+    font-size: 14px;
+}
+
+.contact-form button {
+    width: 100%;
+    font-size: 14px;
+}
+
+.btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 5px;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+}
